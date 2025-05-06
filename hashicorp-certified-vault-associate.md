@@ -76,7 +76,7 @@ In addition, by allowing revocation to mostly be forgone, this secrets engine al
 * Auto unseal is used to automatically unseal Vault but using an HSM or cloud HSM service.
 * After authenticating, the UI and CLI automatically assume the token for all subsequent requests.
 * In order to renew a token, a user can issue a **vault token renew** command to extend the TTL. The token can also be renewed using the API.
-* To login with a token, you can use **vault login hvs.something** or even **vault login -method=token hvs.something** if you like typing more.
+* To login with a token, you can use **vault login something** or even **vault login -method=token something** if you like typing more.
 * If the UI doesn't support a required configuration, the user can potentially use the Vault CLI Browser to execute simple write, read, delete, and list commands.
 * Vault Agent is a client daemon that provides auto-auth, caching, and templating.
 * The **vault lease revoke** command is used to revoke leases. Using the **-prefix** flag allows you to revoke entire trees of secrets.
