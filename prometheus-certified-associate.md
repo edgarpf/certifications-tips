@@ -1,4 +1,4 @@
-# prometheus-certified-associate
+# Prometheus Certified Associate
 
 * Email is a poor choice for a label as there will be a large number of different emails for an application and this will lead to high cardinality.
 * The double underscore **__** before a label name signifies the label is a reserved label.

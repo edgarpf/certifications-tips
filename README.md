@@ -20,6 +20,7 @@ This repo contains many tips and hints for certifications related to DevOps/SRE 
 ## HashiCorp
 
 * [HashiCorp Certified Vault Associate](hashicorp-certified-vault-associate.md)
+* [HashiCorp Certified Terraform Associate](hashicorp-certified-terraform-associate.md)
 
 ## Prometheus
 
@@ -28,9 +29,5 @@ This repo contains many tips and hints for certifications related to DevOps/SRE 
 ## Python
 
 * [Certified Associate in Python Programming](certified-associate-python-programmer.md)
-
-## Terraform
-
-* [Terraform Certified Associate](terraform-certified-associate.md)
 
 
