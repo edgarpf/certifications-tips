@@ -1,4 +1,4 @@
-# hashicorp-certified-vault-associate
+# HashiCorp Certified Vault Associate
 
 * Namespaces are isolated environments that functionally exist as "Vaults within a Vault." They have separate login paths and support creating and managing data isolated to their namespace.
 * Telemetry information can be streamed directly from Vault to a range of metrics aggregation solutions.
