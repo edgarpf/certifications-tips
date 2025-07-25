@@ -11,6 +11,7 @@ This repo contains many tips and hints for certifications related to DevOps/SRE 
 * [AWS Certified SysOps Administrator - Associate](aws-certified-sysops-administrator-associate.md)
 * [AWS Certified DevOps Engineer - Professional](aws-certified-devops-engineer-professional.md)
 * [AWS Certified Solutions Architect - Professional](aws-certified-solutions-architect-professional.md)
+* [AWS Certified Data Engineer - Associate](aws-certified-data-engineer-associate.md)
 
 ## GitHub
 
