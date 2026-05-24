@@ -297,4 +297,3 @@ Amazon Redshift automatically performs VACUUM DELETE ONLY operations in the back
 * Amazon Aurora PostgreSQL has a built-in feature to load data directly from S3 using the COPY command, which is efficient and reduces the load on the database during peak hours.
 * The partition key in Kinesis Data Streams is used to determine how data records are distributed across shards, enabling efficient parallel processing of data streams.
 * Amazon Kinesis Data Streams supports stateful ingestion by tracking sequence numbers, allowing the system to resume from where it last processed the data, which ensures only new data is ingested.
-* 
